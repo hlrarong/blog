@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lirong Hu</title>
+    <description>This is where Lirong Hu documents thoughts and ideas.
+</description>
+    <link>http://hlrarong.github.io/</link>
+    <atom:link href="http://hlrarong.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 Feb 2015 23:37:06 +0800</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2015 23:37:06 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Why move to jekyll</title>
+        <description>&lt;p&gt;Months ago, I read an article that was written by my favorite blogger, &lt;a href=&quot;http://weibo.com/haohailong&quot;&gt;Haohailong&lt;/a&gt;: &lt;a href=&quot;http://shengmingzhiqing.com/blog/everybody-should-build-his-own-writing-space.html/&quot;&gt;Everybody should build his own writing space&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Out of such motivation, I decided to move my blog from once heavy blogging platform WordPress to the well-known, lighter platform Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Hosted with Github Pages, Jekyll also allows people to sync their posts with Git, which helps to concentrate on writing better, especially without those annoying backends. &lt;/p&gt;
+
+&lt;p&gt;Jekyll, here I come!&lt;/p&gt;
+
+&lt;p&gt;Lirong Hu
+2015.2.11&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Feb 2015 22:06:45 +0800</pubDate>
+        <link>http://hlrarong.github.io/meta/2015/02/11/why-move-to-jekyll.html</link>
+        <guid isPermaLink="true">http://hlrarong.github.io/meta/2015/02/11/why-move-to-jekyll.html</guid>
+        
+        
+        <category>meta</category>
+        
+      </item>
+    
+  </channel>
+</rss>
